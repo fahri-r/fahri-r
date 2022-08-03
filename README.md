@@ -1,6 +1,4 @@
 # Hi 👋, I'm Muhammad Fahri Ramadhan
-A passionate backend developer from Indonesia. All of my projects are available at [my blog](https://fahri-r.github.io/).
-
 
 ### ⚡Things I code with:
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
